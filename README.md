@@ -1,1 +1,1 @@
-<img src="https://i.pinimg.com/564x/46/41/be/4641beae870f073240fba935cd80a07a.jpg" alt="" width="500px"/>
+<img src="[https://i.pinimg.com/564x/46/41/be/4641beae870f073240fba935cd80a07a.jpg](https://media.discordapp.net/attachments/1109054277265145892/1558519772117737613/HUMOGiaWkAAASTG.png?ex=6ae2ce65&is=6ae17ce5&hm=5f1d141b9bec95e7fe6aa610e6dced668c68afc841374a535f4948c2e443faed&=&format=webp&quality=lossless&width=1024&height=978)" alt="" width="500px"/>
